@@ -7,8 +7,10 @@ It has been tested working in Flarum 1.04
 Please first delete all entries (BACKUP FIRST, as your old tags will be deleted totally) in your Tags table before pasting the script in your mysql console
 
 I include a WindowsApp.zip for you to run it directly from your Windows PC.
-You can modify the config.txt file to be the format you like. 
-Please note the "end" string is used to split rows and it has to be there.
+You can also download my code and build it in Visual Studio 2019.
+
+You can modify the config.txt file to be the perfect format you like. 
+Please note the "end" string is used to seperate rows and it has to be there.
 You need to input 5 parameters for each row: Name, Slug, Desc, Color, and Icon, which are seperated by "/". 
 The first row following each "end" is the Top level tag, and the rests are sub-tags.
 The last "end" must be remained there in the end of the txt file.
