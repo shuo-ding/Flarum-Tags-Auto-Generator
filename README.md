@@ -15,7 +15,7 @@ The config.txt example is:
 Please note the "end" string is used to seperate rows and it has to be there.
 You need to input 5 parameters for each row: Name, Slug, Desc, Color, and Icon, which are seperated by "/". 
 The first row following each "end" is the Top level tag, and the rests are sub-tags.
-The last "end" must be remained there in the end of the txt file.
+The first and last "end" must be remained there in the end of the txt file.
 
 Open the "myscript.txt" after running the program, and paste it to the mysql console.
 Once you see "Query OK, 1 row affected (0.00 sec)" then it is all successful. 
