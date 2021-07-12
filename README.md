@@ -12,28 +12,6 @@ You can also download my code and build it in Visual Studio 2019.
 You can modify the config.txt file to be the perfect format you like. 
 The config.txt example is:
 
-"
-end
-Forum/forum/News, board management, release/#009900/1
-Management/manage/Board issue management/#ffcc99/1
-Complaint/complaint/All about complaints/#ffcc99/1
-Registration/reg/Helps on registrations/#009900/1
-Cancel/cancel/Cancel registrations/#009900/1
-end
-Shopping/shopping/Shopping heavens for you/#33cc33/1
-Home/home/Furniture, electrics, garden, appliances/#33cc33/1
-Computers/computer/Computers, printers, laptops, surface, and monitors/#33cc33/1
-Vouchers/voucher/Discount vouchers, specials/#993399/1
-Clothes/cloth/Clothes, cases, chests, jewelry, accessories/#993399/1
-end
-Cars/cars/New cars, second hand cars, boats/#009900/1
-Sedans/sedan/All model sedans /#009900/1
-SUV/suv/All about SUVs/#009900/1
-Trucks/truck/Commercial trucks, UTEs, VANs/#009900/1
-Boats/boat/All abot boats/#009900/1
-end
-"
-
 Please note the "end" string is used to seperate rows and it has to be there.
 You need to input 5 parameters for each row: Name, Slug, Desc, Color, and Icon, which are seperated by "/". 
 The first row following each "end" is the Top level tag, and the rests are sub-tags.
