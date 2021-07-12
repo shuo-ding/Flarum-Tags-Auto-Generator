@@ -4,7 +4,7 @@
 This program generates MySQL scripts to insert the tags and sub-tags into the Tags table in your Flarum database.
 It has been tested working in Flarum 1.04
 
-Please first delete all entries (BACKUP FIRST, as your old tags will be deleted totally) in your Tags table before pasting the script in your mysql console
+Please first delete all entries (BACKUP FIRST, AS ALL TAGS WILL BE REMOVED) in your Tags table before pasting the script in your mysql console. You can do this by connecting to mysql console, selecting to use your own database, and inputting "delete from tags;"
 
 I include a WindowsApp.zip for you to run it directly from your Windows PC.
 You can also download my code and build it in Visual Studio 2019.
