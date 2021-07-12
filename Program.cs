@@ -1,6 +1,6 @@
 ﻿/* Copyright (c) 2021 Shuo Ding
   12 July 2021
-  Flarum 1.04 Categories Generators   
+  Flarum 1.04 Tags Generators   
   Author Dr Shuo Ding, 2021  
   Website: https://www.IoTNextDay.com  
   Email: Shuo.Ding.Australia@Gmail.com  
