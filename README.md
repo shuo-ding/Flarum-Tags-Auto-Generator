@@ -9,8 +9,7 @@ Please first delete all entries (BACKUP FIRST, AS ALL TAGS WILL BE REMOVED) in y
 I include a WindowsApp.zip for you to run it directly from your Windows PC.
 You can also download my code and build it in Visual Studio 2019.
 
-You can modify the config.txt file to be the perfect format you like. 
-The config.txt example is:
+You can modify the config.txt file to be the perfect tags format you like. 
 
 Please note the "end" string is used to seperate rows and it has to be there.
 You need to input 5 parameters for each row: Name, Slug, Desc, Color, and Icon, which are seperated by "/". 
